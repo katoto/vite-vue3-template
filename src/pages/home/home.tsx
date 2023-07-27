@@ -3,7 +3,6 @@ import PlayTv from './components/play';
 import Footer from "./components/footer";
 import vipBg from '../../assets/img/vipbg.png';
 import './home.css';
-{/* <script src="//topurl.cn/chat.js" async="async" fold></script> */ }
 
 function App() {
   return (
