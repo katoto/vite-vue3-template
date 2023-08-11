@@ -20,9 +20,6 @@ function App() {
               <a href="http://katoto.cn/webpack5-docs/">程序员区</a>
             </li>
             <li>
-              <a href="http://www.moefz.cc/" rel="noreferrer" target="_blank">番剧</a>
-            </li>
-            <li>
               <a href="https://www.remove.bg/zh/" rel="noreferrer" target="_blank">去水印</a>
             </li>
             <li>

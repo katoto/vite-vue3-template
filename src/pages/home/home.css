@@ -133,3 +133,14 @@ header .navbar-nav>li>a:focus {
   padding: 0;
   color: #aa9dfe;
 }
+
+
+@media (max-width: 1023px) {
+
+  /* 移动设备特定的样式 */
+  header .navbar-nav>li:nth-child(3),
+  header .navbar-nav>li:nth-child(4),
+  header .navbar-nav>li:nth-child(5) {
+    display: none;
+  }
+}

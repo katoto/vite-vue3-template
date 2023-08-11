@@ -6,13 +6,9 @@ import Meta from 'antd/lib/card/Meta';
 
 function PlayTv() {
   const [url, setUrl] = useState<string>('');
-  const [preUrl, setPreUrl] = useState<string>('https://www.ckmov.com/?url=');
+  const [preUrl, setPreUrl] = useState<string>('https://jx.xmflv.com/?url=');
   const [searVal, setSearVal] = useState<string>('https://v.qq.com/x/cover/dv71ekj7urmxkvp.html');
   const list = [
-    {
-      name: '默认解析',
-      link: 'https://www.ckmov.com/?url='
-    },
     {
       name: '默认解析',
       link: 'https://jx.xmflv.com/?url='
@@ -20,10 +16,6 @@ function PlayTv() {
     {
       name: '默认解析',
       link: 'https://jx.playerjy.com/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://vip.bljiex.com/?v='
     },
     {
       name: '默认解析',
@@ -35,19 +27,7 @@ function PlayTv() {
     },
     {
       name: '默认解析',
-      link: 'https://www.302tv.com//?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://okjx.cc/?url='
-    },
-    {
-      name: '默认解析',
       link: 'https://jx.qqwtt.com/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://www.administratorw.com/video.php?url='
     },
     {
       name: '默认解析',
@@ -81,7 +61,10 @@ function PlayTv() {
       name: '默认解析',
       link: 'https://jx.jsonplayer.com/player/?url='
     },
-
+    {
+      name: '默认解析',
+      link: 'http://api.apii.top/?v='
+    },
   ]
 
   useEffect(() => {
@@ -95,7 +78,7 @@ function PlayTv() {
         <iframe
           id="palybox"
           title={'iframe'}
-          src={url || 'https://www.ckmov.com/?url=https://v.qq.com/x/cover/dv71ekj7urmxkvp.html'}
+          src={url || 'https://jx.xmflv.com/?url=https://v.qq.com/x/cover/dv71ekj7urmxkvp.html'}
           frameBorder="0"
           scrolling="no"
           allowFullScreen={true}
