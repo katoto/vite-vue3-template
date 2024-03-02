@@ -27,23 +27,7 @@ function PlayTv() {
     },
     {
       name: '默认解析',
-      link: 'https://jx.qqwtt.com/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://jx.iztyy.com/svip/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://svip.bljiex.cc/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://www.nxflv.com/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://parse.mw0.cc/?url='
+      link: 'https://www.pouyun.com/?url='
     },
     {
       name: '默认解析',
@@ -51,7 +35,27 @@ function PlayTv() {
     },
     {
       name: '默认解析',
-      link: 'https://api.jiexi.la/?url='
+      link: 'https://jx.jsonplayer.com/player/?url='
+    },
+    {
+      name: '默认解析',
+      link: 'https://im1907.top/?jx='
+    },
+    {
+      name: '默认解析',
+      link: 'https://bd.jx.cn/?url='
+    },
+    {
+      name: '默认解析',
+      link: 'https://www.ckplayer.vip/jiexi/?url='
+    },
+    {
+      name: '默认解析',
+      link: 'https://jx.playerjy.com/?url='
+    },
+    {
+      name: '默认解析',
+      link: 'https://www.pangujiexi.com/jiexi/?url='
     },
     {
       name: '默认解析',
@@ -59,12 +63,32 @@ function PlayTv() {
     },
     {
       name: '默认解析',
-      link: 'https://jx.jsonplayer.com/player/?url='
+      link: 'https://jx.nnxv.cn/tv.php?url='
     },
     {
       name: '默认解析',
-      link: 'http://api.apii.top/?v='
+      link: 'https://json.ovvo.pro/jx.php?url='
     },
+    {
+      name: '默认解析',
+      link: 'https://www.yemu.xyz/?url='
+    },
+    {
+      name: '默认解析',
+      link: 'https://jx.yparse.com/index.php?url='
+    },
+    {
+      name: '默认解析',
+      link: 'https://jx.000180.top/jx/?url='
+    },
+    {
+      name: '默认解析',
+      link: 'https://gj.fenxiangb.com/player/analysis.php?v='
+    },
+    {
+      name: '默认解析',
+      link: 'https://www.8090g.cn/?url='
+    }
   ]
 
   useEffect(() => {
