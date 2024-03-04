@@ -51,18 +51,6 @@ function PlayTv() {
     },
     {
       name: '默认解析',
-      link: 'https://jx.playerjy.com/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://www.pangujiexi.com/jiexi/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://www.pouyun.com/?url='
-    },
-    {
-      name: '默认解析',
       link: 'https://jx.nnxv.cn/tv.php?url='
     },
     {
@@ -72,10 +60,6 @@ function PlayTv() {
     {
       name: '默认解析',
       link: 'https://www.yemu.xyz/?url='
-    },
-    {
-      name: '默认解析',
-      link: 'https://jx.yparse.com/index.php?url='
     },
     {
       name: '默认解析',
